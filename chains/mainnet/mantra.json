@@ -5,13 +5,13 @@
     "api": [
         {
             "provider": "MANTRA",
-            "address": "https://api.mantrachain.io"
+            "address": "http://176.97.114.147:1317"
         }
     ],
     "rpc": [
         {
             "provider": "MANTRA",
-            "address": "https://rpc.mantrachain.io"
+            "address": "http://176.97.114.147:26657"
         }
     ],
     "snapshot_provider": "",
